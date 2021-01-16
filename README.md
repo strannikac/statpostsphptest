@@ -14,7 +14,7 @@ index.php is main file, where application starts.
  - App/App.php starts main functional.
  - Service/Db.php gets database instance and contains methods for database.
  - Service/Api.php contains methods for API.
- - Service/Stat.php gets and shows statictic.
+ - Service/Stat.php gets and shows statistic information.
  - Model/Model.php contains common methods for models (tables in database).
  - Model/PostModel.php containc methods for posts (extends from Model).
 
